@@ -24,5 +24,7 @@ This goal of this project is to leverage python to audit and certify the electio
   - Winner: Diana DeGette
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
+
+
 ![alt text](https://github.com/GrahamBSereno/Election_Analysis/blob/main/Resources/Terminal%20Output.png)
 
