@@ -25,6 +25,8 @@ This goal of this project is to leverage python to audit and certify the electio
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
 
-
+## Terminal Output
 ![alt text](https://github.com/GrahamBSereno/Election_Analysis/blob/main/Resources/Terminal%20Output.png)
 
+## Text File Output
+![alt text](https://github.com/GrahamBSereno/Election_Analysis/blob/main/Resources/Text%20File%20Output.png)
