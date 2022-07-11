@@ -30,3 +30,8 @@ This goal of this project is to leverage python to audit and certify the congres
 
 ## Text File Output
 ![alt text](https://github.com/GrahamBSereno/Election_Analysis/blob/main/Resources/Text%20File%20Output.png)
+
+## Election Audit Summary
+The election commission can now use this script (with some minor modifications) to certify any election result: 
+- First, change the CSV file to the raw data for the target election.
+- Add additional logic if electorates apply. For each candidate with the highest vote in a region, add the electorates. Finally, sum the total electorates to define the winner. 
