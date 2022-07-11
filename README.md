@@ -13,7 +13,7 @@ Provide a breakdown of the number of votes and the percentage of total votes for
 Which county had the largest number of votes?
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-![alt text](https://github.com/GrahamBSereno/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![alt text](https://github.com/GrahamBSereno/Election_Analysis/blob/main/Resources/Terminal%20Output.png)
 ## Challenge Overview
 
 ##Challenge Summary
